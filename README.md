@@ -1,7 +1,4 @@
 # LOCO: Logistics Objects in Context
-[//]: # "[![DOI](https://zenodo.org/badge/75388965.svg)](https://zenodo.org/badge/latestdoi/75388965)"
-
-![](./images/loco_logo.png =250x250)
 
 LOCO is an image dataset focusing on object detection in logistics scenes. Images are captured while walking through a logistics setting using low-cost consumer cameras. We currently provide 37,988 images captured in 5 logistics environments, of which 5593 images are manually annotated, resulting in 152,421 annotations. Annotated classes include pallets, small load carriers, pallet trucks, forklifts and stillages.  
 
