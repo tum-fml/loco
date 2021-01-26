@@ -8,10 +8,22 @@ For more details, we refer to our [paper](https://mediatum.ub.tum.de/doc/1578845
 
 ## Dataset
 ### Data
-The annotated dataset can be downloaded [here](https://syncandshare.lrz.de/dl/fiLs87iyphDhmTKh7Xb347sG/dataset.zip). Furthermore, we also provide additional data (not annotated) [here](https://syncandshare.lrz.de/dl/fiqZVRQHJFtmkDx8ghhCBM9/not-annotated-dataset).
+The annotated dataset can be downloaded [here](https://go.mytum.de/239870). Furthermore, we also provide additional data (not annotated) [here](http://go.mytum.de/928009).
 ### Annotations 
 Annotations are stored in [COCO format](https://cocodataset.org/#format-data) under `rgb/loco-all-v1.json`. For ease of use, we also provide seperate annotation files for each subset. 
 
+## Credits & How to cite
+This project would not have been possible without the amazing team including Dimitrij-Marian Holm, Benjamin Molter, Nikolai Ruof and Mubashir Hanif as well as all the hardworking annotators.
+
+The dataset in this repository is maintained by [Christopher Mayershofer](mayershofer.com). 
+
+If you use the dataset contained in this repository for your research, please cite the following publication:
+>LOCO: Logistics Objects in Context    
+>Mayershofer, C., Holm, D.-M., Molter, B., Fottner, J.     
+>IEEE International Conference on Machine Learning and Applications (ICMLA) 2020
+
 ## License
-[CC0](./License) 
+The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See [License](./License) for details.
 
