@@ -25,5 +25,5 @@ If you use the dataset contained in this repository for your research, please ci
 ## License
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See [License](./License) for details.
+You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission. See [LICENSE](./LICENSE) for details.
 
