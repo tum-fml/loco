@@ -12,6 +12,8 @@ The annotated dataset can be downloaded [here](https://go.mytum.de/239870). Furt
 ### Annotations 
 Annotations are stored in [COCO format](https://cocodataset.org/#format-data) under `rgb/loco-all-v1.json`. For ease of use, we also provide seperate annotation files for each subset. 
 
+We also provide annotations in [YOLO format](https://docs.ultralytics.com/hub/) inside `YOLO/labels.zip`. For quick experimentation, all the corresponding `images` can be dowloaded [here](https://drive.google.com/file/d/1yzN65mNnAY1_3I-Qw9WYWnslbnhs-d4h/view). 
+  
 ## Credits & How to cite
 This project would not have been possible without the amazing team including Dimitrij-Marian Holm, Benjamin Molter, Nikolai Ruof and Mubashir Hanif as well as all the hardworking annotators.
 
